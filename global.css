@@ -1,0 +1,154 @@
+/****** Main Template ******/
+
+html 
+{
+    min-width: 945px;
+} /*IE7*/
+
+body
+{
+	background-color:#B0E0E6;
+	text-align:center;
+	font:Arial, Helvetica, sans-serif;
+	text-align:center;
+	font-size:12px;
+	color:#000000;
+	margin:0px;
+	padding:0px;	
+}
+
+h1
+{
+	color:#FFFFFF;
+	font-size: 24px;
+	font: tahoma, sans-serif;
+	margin:0px;
+	padding:0px;
+}
+
+h2
+{
+	color:#000000;
+	font-size:18px;
+	font:tahoma, sans-serif;
+	margin:0px;
+	padding:0px;
+	word-spacing:30px;
+}
+
+h3
+{
+	color:#000000;	
+	font-size:12px;
+	font:tahoma, sans-serif;
+	text-align:left;
+	margin:0px;
+	padding:0px;
+	position:absolute;
+	left:5%;
+	top:75px;
+}
+
+h4
+{
+	color:#B3B3B3;	
+	font-size:12px;
+	font:tahoma, sans-serif;
+	text-align:left;
+	margin:0px;
+	padding:0px;
+	position:absolute;
+	left:5%;
+	top:130px;
+}
+
+h5
+{
+	color:#000000;	
+	font-size:12px;
+	font: Arial, Helvetica, sans-serif;
+	text-align:right;
+	margin:0px;
+	padding:0px;
+	position:absolute;
+	right:5%;
+	top:130px;	
+}
+
+h6
+{
+	color:#000000;	
+	font-size:12px;
+	font:tahoma, sans-serif;
+	text-align:right;
+	margin:0px;
+	padding:0px;
+	position:absolute;
+	left:2%;
+	right:2%;
+	top:5%;
+	bottom:5;	
+}
+
+h7
+{
+	color:#B3B3B3;	
+	font-size:12px;
+	font:tahoma, sans-serif;
+	text-align:right;
+	margin:0px;
+	padding:0px;
+	position:absolute;
+	left:5%;
+	bottom:5%;	
+}
+
+#h-pri 
+{
+	height: 48px;
+	background:#F15A29;
+	margin:auto;
+	width:90%;
+	margin-top:0px;
+	padding:0px;
+	min-width:900px;
+}
+
+#h-sec 
+{
+    height: 28px;
+    background:#F7931E;
+   	margin:auto;
+	width:90%;
+	margin-top:0px;
+	padding:0px;
+	position:absolute;
+	top:48px;
+	left:5%;
+	min-width:900px;
+}
+
+#h-ter 
+{
+	height: auto;
+    background: #FFFFFF;
+   	margin:auto;
+	width:90%;
+	margin-top:0px;
+	padding:0px;
+	position:absolute;
+	top:148px;
+	left:5%;
+	bottom:148px;
+}
+
+a:link {color:#58B7DD;}    /* unvisited link */
+a:visited {color:#58B7DD;} /* visited link */
+a:hover {color:#58B7DD;}   /* mouse over link */
+a:active {color:#58B7DD;}  /* selected link */
+
+
+F15A29-Top orange
+F7931E-Bottom orange
+58B7DD-Links
+B0E0E6-Background blue
